@@ -1,7 +1,7 @@
 # nosql-socialnetworkapi
 
 # walkthrough video url:
-
+https://watch.screencastify.com/v/8HDXsSnw2gJRCck8WBQs
 
 # User Story
 AS A social media startup
